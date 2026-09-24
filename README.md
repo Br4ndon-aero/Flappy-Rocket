@@ -33,6 +33,7 @@ This project helped me learn the basics of Unity and C#, including:
 - Using prefabs
 - Debugging scripts and Unity errors
 - Putting in effort and not using so much AI
+- How to work from my desktop and my laptop
   
 ## Future Improvements
 
